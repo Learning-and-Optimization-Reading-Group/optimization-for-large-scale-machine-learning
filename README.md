@@ -1,2 +1,2 @@
-# optimization-for-large-scale-machine-learning
+# Optimization for large scale machine learning
 Reading notes
