@@ -1,5 +1,5 @@
 # Optimization for large scale machine learning
-Reading notes
+Reports, slides and schedules for **optimization for ML reading group**. 
 
 ## Reading list
 [1] Sun, Ruoyu. "Optimization for deep learning: theory and algorithms." arXiv preprint arXiv:1912.08957 (2019). [[download](https://arxiv.org/pdf/1912.08957.pdf)]
